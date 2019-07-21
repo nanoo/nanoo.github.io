@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   We study animals that you can find in your backyard if you live in Ohio.
   We're just trying to show you how cool nature is and how to find it in your own backyard.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://naturenaturalists.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  nanoo
 
 # Build settings

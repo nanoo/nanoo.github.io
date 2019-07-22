@@ -6,7 +6,7 @@ categories: ohio butterflies
 youtubeId: FcdLYYciq6M
 youtubeId2: g6QGfMJoARo
 ---
-Facts about the tiger swallowtail: Habitat forest openings, woodland edges, gardens, and fields. Flight period: April to August. Area of Ohio: The tiger swallowtail is found statewide but more common in the forest regions of Ohio.
+Facts about the tiger swallowtail: Habitat: forest openings, woodland edges, gardens, and fields. Flight period: April to August. Area of Ohio: The tiger swallowtail is found statewide but more common in the forest regions of Ohio.
 sourse http://wildlife.ohiodnr.gov/species-and-habitats/species-guide-index/butterflies-skippers/eastern-tiger-swallowtail
 
 {% include youtubePlayer.html id=page.youtubeId %}

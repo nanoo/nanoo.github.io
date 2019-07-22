@@ -15,5 +15,4 @@ A: One of the ones I've never actually seen in person before was a snout nose bu
 
 Thanks for coming by today I'm gonna go in and update your about page with that information.
 
-Norah: Bye bye and get with us on (Facebook, Twitter and Instagram) or maybe just get help.Please subcribe to are website!
-(We are not on Facebook,Twitter or Instagram yet.)
+Norah: Bye. Thank you for visiting our website!

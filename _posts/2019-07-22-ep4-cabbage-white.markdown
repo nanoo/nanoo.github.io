@@ -3,8 +3,7 @@ layout: post
 title:  "Cabbage White Butterfly"
 date:   2019-07-22 13:16:00 -0400
 categories: ohio butterflies
-youtubeId: LC2wNg1uPpE
-youtubeId2: aIOfo7gmyCk 
+youtubeId: LC2wNg1uPpE 
 ---
 Facts about the cabbage white: The cabbage white is found everywhere except the deep woods. Flight period: April to October. Area of Ohio: The European cabbage is known from all 88 counties.
 
@@ -15,4 +14,4 @@ source Common Butterflies and Skippers of Ohio. Ohio department of natural resou
 [ Ohio DNR Wildlife Guide](http://wildlife.ohiodnr.gov/species-and-habitats/species-guide-index/butterflies-skippers/cabbage-white)
                                         PLEASE DO NOT SPRAY cabbage white butterflies because it can harm "Good bugs". There is not such a thing as a "bad bug", but there is such a thing as non native species. A non native species means they're not natural to the food chain that is in the Country or state that you live in. 
 
-{% include youtubePlayer.html id=page.youtubeId2 %}
+

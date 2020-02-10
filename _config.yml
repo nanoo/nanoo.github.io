@@ -21,10 +21,11 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://naturenaturalists.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  nanoo
+author:
+  name: Norah Tempus
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
